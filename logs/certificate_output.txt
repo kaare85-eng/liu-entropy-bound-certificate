@@ -1,0 +1,16 @@
+Running Liu entropy certificate suite
+mpmath.mp.dps = 50
+Only dependency: mpmath
+---
+A.1 Constant enclosures: CERTIFIED
+A.2 Bernstein positivity: CERTIFIED (min coeff b_13 = 4.550899799454894)
+A.3 Diagonal interval values: CERTIFIED
+A.4 Unique bifurcation x0: CERTIFIED (left margin 0.0087385336, right margin 0.007489903)
+A.5 Fold uniqueness and value: CERTIFIED (Gamma_u > 0.416078494853)
+A.7 Determinant sign on lower arm: CERTIFIED (79 boxes, max Delta upper -0.00116054425855)
+A.8 Determinant sign on upper arm: CERTIFIED (42 boxes, max Delta upper -31.1897707236, min Gvv lower 0.000394450122601)
+A.9 Endpoint Gamma_u positivity: CERTIFIED (C0=0.0219863330048, margin=0.34920020343)
+A.6 Branch isolation: CERTIFIED (topological assembly; max band Newton ratio 0.6850421515)
+---
+ALL CERTIFICATES PASSED
+Total runtime: 24.58 seconds
