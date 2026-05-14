@@ -16,9 +16,7 @@ c' = 0.382709087918735...
 ```
 
 for Frankl’s union-closed sets conjecture. This constant was obtained
-conditionally by Liu (2023, arXiv:2306.08824). Our proof replaces
-Liu’s numerical optimizer-structure hypothesis with a direct certified
-proof of the underlying entropy inequality.
+conditionally by Liu (2023, arXiv:2306.08824). Rather than proving Liu's PSD and optimizer-structure hypotheses in their original form, the proof bypasses them by proving directly the bivariate entropy inequality needed for the 0.382709... bound.
 
 ## Repository structure
 
