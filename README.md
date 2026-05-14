@@ -33,6 +33,9 @@ liu-entropy-bound-certificate/
 └── logs/
     └── certificate_output.txt
 ```
+The compiled manuscript is available at:
+
+paper/manuscript.pdf
 
 ## Reproducing the certificates
 
